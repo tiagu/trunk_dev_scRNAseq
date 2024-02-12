@@ -1,28 +1,27 @@
-# *** This repository is being populated in the coming days. Please bear with me. Thank you, Tiagu ***
+
+
+
+# Notochord and axial progenitors in chicken embryos and human organoids
+This is a repository of scripts used to analyse single-cell transcriptomic data in [Rito et al. (2023)](https://www.biorxiv.org/content/10.1101/2023.02.27.530267v1).
+
+
+## Data download
+The raw sequencing data is publicly available to download at the [GEO](https://www.ncbi.nlm.nih.gov/geo/info/download.html) genomics data repository.
+    - chicken trunk embryo [data]() (4, 7, 10, 13 somites). Dissociated tissue caudal from 3rd somite. 
+    - human posterior neuruloid [data](). Day3 micropatterned colonies with several timing delays in BMP&NODAL inhibition.
+    - human notoroid [data](). Days 3, 5 and 7 trunk organoids featuring neural, paraxial and axial mesoderm.
+
+## Chicken analyses
+
+## Macaque analyses
+
+## Human analyses
+
+## interspecies comparisons
 
 
 
 
 
-# PROJECT NAME
-This is a template README.md for github repositories from the Software Development and Machine Learning Team. Make sure to remove any default information that is not relevant.
+Contact regarding analysis/code: [Tiago Rito](mailto:tiago.rito@crick.ac.uk).
 
-## Code Overview:
-A brief overview of the purpose of the repository.
-
-## Contact Details:
-Who to contact, how to contact, are github issues used? etc.
-
-## Development Setup:
-A comprehensive guide on setting up a functioning development environment as possible across as large a cross-section of platforms as possible.
-
-## Production Setup:
-A compreheensive guide on setting up a production environment. This should include notes on security where relevant.
- 
-## Usage:
-* How to run the program.
-* List of inputs (expected file formats if relevant)
-* List of outputs (file format info if non-standard)
-
-## Contribution Guidelines:
-A comprehensive guide to contributing to this repository. Including git workflows, style standards, and testing standards.
