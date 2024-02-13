@@ -9,11 +9,11 @@ This is a repository of scripts used to analyse single-cell transcriptomic data 
 
  The raw sequencing data is publicly available to download at the [GEO](https://www.ncbi.nlm.nih.gov/geo/info/download.html) genomics data repository.
 
-  * chicken trunk embryo [data]() (4, 7, 10, 13 somites). Dissociated tissue caudal from 3rd somite. 
+  * chicken trunk embryo [data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE223189) (4, 7, 10, 13 somites). Dissociated tissue caudal from 3rd somite. 
 
-  * human posterior neuruloid [data](). Day3 micropatterned colonies with several timing delays in BMP&NODAL inhibition.
+  * human posterior neuruloid [data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE224404). Day3 micropatterned colonies with several timing delays in BMP&NODAL inhibition.
 
-  * human notoroid [data](). Days 3, 5 and 7 trunk organoids featuring neural, paraxial and axial mesoderm.
+  * human notoroid [data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE255338). Days 3, 5 and 7 trunk organoids featuring neural, paraxial and axial mesoderm.
 
 ## Chicken analyses
 
