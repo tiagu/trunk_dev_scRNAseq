@@ -9,7 +9,7 @@ This is a repository of scripts used to analyse single-cell transcriptomic data 
 - [Data download](#Data-download)
 - [Chicken analyses](#Chicken-analyses)
 - [Human analyses](#Human-analyses)
-    - [List CheckBox](#list-checkbox)
+- [interspecies comparisons](#interspecies-comparisons)
 
 
 
@@ -25,9 +25,15 @@ This is a repository of scripts used to analyse single-cell transcriptomic data 
 
 ## Chicken analyses
 
-## Macaque analyses
+  * Example of read mapping and counting script
+
+  * Example QC of a data set
+
+  * 
 
 ## Human analyses
+
+  * Example of read mapping and counting script
 
   * QC of individual datasets
 
