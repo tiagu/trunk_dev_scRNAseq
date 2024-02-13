@@ -5,6 +5,14 @@
 This is a repository of scripts used to analyse single-cell transcriptomic data in [Rito et al. (2023)](https://www.biorxiv.org/content/10.1101/2023.02.27.530267v1).
 
 
+
+- [Data download](#Data-download)
+- [Chicken analyses](#Chicken-analyses)
+- [Human analyses](#Human-analyses)
+    - [List CheckBox](#list-checkbox)
+
+
+
 ## Data download
 
  The raw sequencing data is publicly available to download at the [GEO](https://www.ncbi.nlm.nih.gov/geo/info/download.html) genomics data repository.
@@ -20,6 +28,10 @@ This is a repository of scripts used to analyse single-cell transcriptomic data 
 ## Macaque analyses
 
 ## Human analyses
+
+  * QC of individual datasets
+
+  * Merge and plot
 
 ## interspecies comparisons
 
