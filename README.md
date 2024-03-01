@@ -29,7 +29,7 @@ This is a repository of scripts used to analyse single-cell transcriptomic data 
 
   * Example QC of a data set
 
-  * 
+  * Analyses
 
 ## Human analyses
 
@@ -41,8 +41,7 @@ This is a repository of scripts used to analyse single-cell transcriptomic data 
 
 ## interspecies comparisons
 
-
-
+  * RF classifier
 
 
 Contact regarding analysis/code: [Tiago Rito](mailto:tiago.rito@crick.ac.uk).
