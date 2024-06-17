@@ -1,7 +1,7 @@
 
 
 
-# Notochord and axial progenitors in chicken embryos and human organoids
+# Notochord and axial progenitors in chicken embryos and human trunk-organoids
 This is a repository of scripts used to analyse single-cell transcriptomic data in [Rito et al. (2023)](https://www.biorxiv.org/content/10.1101/2023.02.27.530267v1).
 
 
