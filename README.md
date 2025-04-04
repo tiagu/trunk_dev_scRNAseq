@@ -2,7 +2,7 @@
 
 
 # Notochord and axial progenitors in chicken embryos and human trunk-organoids
-This is a repository of scripts used to analyse single-cell transcriptomic data in [Rito et al. (2023)](https://www.biorxiv.org/content/10.1101/2023.02.27.530267v1).
+This is a repository of scripts used to analyse single-cell transcriptomic data in [Rito et al. (2023)](https://www.biorxiv.org/content/10.1101/2023.02.27.530267v1). 
 
 
 
@@ -11,7 +11,8 @@ This is a repository of scripts used to analyse single-cell transcriptomic data 
 - [Human analyses](#Human-analyses)
 - [interspecies comparisons](#interspecies-comparisons)
 
-
+If you use this repository in your research, please cite:
+Rito, T. *et al.* Timely TGFβ signalling inhibition induces notochord. Nature 637, 673–682 (2025). DOI: [10.1038/s41586-024-08332-w](https://doi.org/10.1038/s41586-024-08332-w).
 
 ## Data download
 
